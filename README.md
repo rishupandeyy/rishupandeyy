@@ -7,7 +7,7 @@
 ---
 
 ## 👋 **About Me**  
-Hi! I'm **Rishu Pandey**, a passionate and curious learner with expertise in **C Programming**, **Java**, and **Cloud Computing**. I enjoy crafting elegant solutions to challenging problems and love building user-friendly applications. With a strong foundation in **Full Stack Development** and a deep understanding of **Operating Systems** and **Computer Networks**, I’m on a journey to explore cutting-edge technologies and contribute to impactful projects.  
+Hi! I'm **Rishu Pandey**, a passionate and curious learner with expertise in **C Programming**, **Java**, and **Cloud Computing**. I enjoy crafting elegant solutions to challenging problems and love building user-friendly applications. With a strong foundation in **Full Stack Development** and a deep understanding of **Operating Systems** and **Computer Networks**, I’m on a journey to explore cutting-edge technologies and contribute to impactful projects ..  
 
 ---
 
