@@ -46,7 +46,7 @@ Hi! I'm **Rishu Pandey**, a passionate and curious learner with expertise in **C
 ## 📬 **Let's Connect!**  
 ✨ I'm always excited to connect with like-minded people, collaborate on projects, or learn from others. Feel free to reach out to me:  
 - 💼 LinkedIn: https://www.linkedin.com/in/rishu-pandey-aa9602285/  
-- 📧 Email: rishupandey8935@example.com  
+- 📧 Email: rishupandey8935@gmail.com  
 - 🌐 GitHub: https://github.com/rishupandeyy 
 
 ---
