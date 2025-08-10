@@ -2,12 +2,20 @@
 
 # 🌟 **Rishu Pandey**  
 
-🎓 **Aspiring Developer | Cloud Enthusiast | Full Stack Programmer**  
+🎓 **Aspiring Data Analyst | Skilled in Excel, SQL, Python, Power BI | Graphic Era deemed to be University**  
 
 ---
 
 ## 👋 **About Me**  
-Hi! I'm **Rishu Pandey**, a passionate and curious learner with expertise in **C Programming**, **Java**, and **Cloud Computing**. I enjoy crafting elegant solutions to challenging problems and love building user-friendly applications. With a strong foundation in **Full Stack Development** and a deep understanding of **Operating Systems** and **Computer Networks**, I’m on a journey to explore cutting-edge technologies and contribute to impactful projects.
+I’m an MCA final-year student with a strong interest in Data Analytics and a solid foundation in tools like Excel, SQL, Python, and Power BI.
+
+Currently, I’m building my expertise through hands-on learning and real-world datasets, focusing on data cleaning, exploration, visualization, and dashboard development.
+
+I’m passionate about solving business problems using data, creating insightful visualizations, and continuously improving my analytical thinking.
+
+💡 Looking for internship or entry-level opportunities where I can apply my learning, contribute to impactful projects, and grow into a high-performing Data Analyst.
+
+Let’s connect!
 
 ---
 
