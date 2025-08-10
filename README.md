@@ -34,9 +34,9 @@ Let’s connect!
  
 
 ### Data Analysis & Visualization:
-📊 Skilled in data cleaning, transformation, and analysis using tools like Excel, SQL, and Python
-📈 Proficient in data visualization with Power BI / Tableau to create interactive dashboards
-🔍 Strong understanding of data-driven decision making and KPI tracking
+-📊 Skilled in data cleaning, transformation, and analysis using tools like Excel, SQL, and Python
+-📈 Proficient in data visualization with Power BI / Tableau to create interactive dashboards
+-🔍 Strong understanding of data-driven decision making and KPI tracking
 
 ---
 
