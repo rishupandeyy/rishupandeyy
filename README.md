@@ -25,17 +25,18 @@ Let’s connect!
 - 🔹 SQL  
 
 ### **Data Analyst:**  
-•	Data Analysis Tools: Excel, Pandas, NumPy, Jupyter Notebook  
-•	Data Visualization: Power BI, Tableau (basic), Matplotlib, Seaborn  
-•	Database Management: MySQL, PostgreSQL, MongoDB  
-•	Machine Learning: Supervised & Unsupervised learning , regression, classification  
-•	Other Tools: VS code,  GitHub, Google Sheets, Google Data Studio  
-•	Soft Skills: Problem-Solving, Communication, Business Thinking
+-	**Data Analysis Tools:** Excel, Pandas, NumPy, Jupyter Notebook  
+-	**Data Visualization:** Power BI, Tableau (basic), Matplotlib, Seaborn  
+-	**Database Management:** MySQL, PostgreSQL, MongoDB  
+-	**Machine Learning:** Supervised & Unsupervised learning , regression, classification  
+-	**Other Tools:** VS code,  GitHub, Google Sheets, Google Data Studio  
+-	**Soft Skills:** Problem-Solving, Communication, Business Thinking
  
 
-### **Cloud Computing & Networking:**  
-- 🌩️ Knowledge of cloud technologies and their applications  
-- 🌐 Proficient in **Computer Networks** and **Operating Systems**
+### Data Analysis & Visualization:
+📊 Skilled in data cleaning, transformation, and analysis using tools like Excel, SQL, and Python
+📈 Proficient in data visualization with Power BI / Tableau to create interactive dashboards
+🔍 Strong understanding of data-driven decision making and KPI tracking
 
 ---
 
@@ -44,15 +45,18 @@ Let’s connect!
 1. **Cloud-Based Web App**: A dynamic web app hosted on a cloud platform.  
 2. **Java Library Management System**: A complete system to manage book records.  
 3. **Portfolio Website**: A personal portfolio showcasing my skills and projects using HTML, CSS, and JavaScript.  
-4. **OS Process Scheduler Simulator**: Simulated various scheduling algorithms.  
+4. **Coffee Shop Sales Dashboard:** An interactive dashboard analyzing sales data, identifying top-selling products, tracking KPIs, and providing insights for revenue growth using [Power BI/Tableau/Excel].  
 
 ---
 
 ## 🎯 **What I'm Learning**  
 🌱 Exploring advanced concepts in:  
-- DevOps tools  
-- Modern frameworks for Full Stack Development  
-- Networking and cybersecurity principles  
+- Data visualization best practices and storytelling with data
+- Advanced SQL queries for complex data analysis
+- Python for data cleaning, transformation, and automation
+- Statistical methods and predictive analytics basics
+
+  
 
 ---
 
