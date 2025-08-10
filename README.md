@@ -21,12 +21,17 @@ Let’s connect!
 
 ## 🛠️ **My Skillset**  
 ### **Programming Languages:**  
-- 🔹 C Programming  
-- 🔹 Java  
+- 🔹 Python
+- 🔹 SQL  
 
-### **Full Stack Development:**  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Building responsive and dynamic web applications  
+### **Data Analyst:**  
+•	Data Analysis Tools: Excel, Pandas, NumPy, Jupyter Notebook  
+•	Data Visualization: Power BI, Tableau (basic), Matplotlib, Seaborn  
+•	Database Management: MySQL, PostgreSQL, MongoDB  
+•	Machine Learning: Supervised & Unsupervised learning , regression, classification  
+•	Other Tools: VS code,  GitHub, Google Sheets, Google Data Studio  
+•	Soft Skills: Problem-Solving, Communication, Business Thinking
+ 
 
 ### **Cloud Computing & Networking:**  
 - 🌩️ Knowledge of cloud technologies and their applications  
